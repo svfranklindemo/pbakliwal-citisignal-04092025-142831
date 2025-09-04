@@ -1,19 +1,20 @@
 {
     "mappings": [
-      "/content/pbakliwal/eds-citisignal-source/:/",
-      "/content/pbakliwal/eds-citisignal-source/configuration:/.helix/config.json",
-      "/content/pbakliwal/eds-citisignal-source/metadata:/metadata.json",
-      "/content/pbakliwal/eds-citisignal-source/configs:/configs.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/eds-citisignal-source/redirects:/redirects.json",
-      "/content/pbakliwal/eds-citisignal-source/placeholders:/placeholders.json",
-      "/content/pbakliwal/eds-citisignal-source/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/eds-citisignal-source/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/eds-citisignal-source/images/products/:/images/products/"
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/:/",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/configuration:/.helix/config.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/metadata:/metadata.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/configs:/configs.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/configs-stage:/configs-stage.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/configs-dev:/configs-dev.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/redirects:/redirects.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/placeholders:/placeholders.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/products/recommended-products:/products/recommended-products.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/eds-citisignal-source",
-      "/content/dam/citisignal/images/products/"
+      "/content/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/",
+      "/content/dam/citisignal/images/products/",
+"/content/dam/pbakliwal/d3872fb2-14fd-4d84-b576-1e0eb2f1903c/"
     ]
 }
